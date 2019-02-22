@@ -79,7 +79,7 @@ if you want to calculate some distraction or drowsiness metric over time for a f
 python batch_process.pyx /path/to/videos/
 ```
 
-The dataset we used for testing can be found [here](http://www.site.uottawa.ca/~shervin/yawning/). There's also a couple of python notebooks used during the data exploration and testing phases in the [test](test/) folder.
+The dataset we used for testing can be found [here](http://www.site.uottawa.ca/~shervin/yawning/). There's also a couple of python notebooks used during the data exploration and testing phases in the [test](tests/) folder.
 
 ## Authors
 ----
